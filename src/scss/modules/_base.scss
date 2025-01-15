@@ -1,0 +1,13 @@
+body {
+  display: flex;
+  width: 1728px;
+  height: 1117px;
+  padding: 100px 1188px 755px 100px;
+  align-items: center;
+  background: var(--lavender, #c4d2f5);
+}
+
+audio {
+  visibility: hidden;
+  display: none;
+}
